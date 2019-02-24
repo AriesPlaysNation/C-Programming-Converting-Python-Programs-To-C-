@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M01aDemo", "M01aDemo\M01aDemo.csproj", "{1C7A9A0D-DE06-445E-BEFE-E815E98C31C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M01aDemo", "M01aDemo\M01aDemo.csproj", "{1C7A9A0D-DE06-445E-BEFE-E815E98C31C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M01bMontyPython", "M01bMontyPython\M01bMontyPython.csproj", "{FB012651-B4B8-4246-9796-9E94ED294B4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M01bMontyPython", "M01bMontyPython\M01bMontyPython.csproj", "{FB012651-B4B8-4246-9796-9E94ED294B4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M02Columns", "M02Columns\M02Columns.csproj", "{A0A846EE-A292-481C-BF7D-868C4ECED83C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M02Columns", "M02Columns\M02Columns.csproj", "{A0A846EE-A292-481C-BF7D-868C4ECED83C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M04aCommission", "M04aCommission\M04aCommission.csproj", "{362CC8D2-E546-460B-AB7F-7CBACFBFD9CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M04aCommission", "M04aCommission\M04aCommission.csproj", "{362CC8D2-E546-460B-AB7F-7CBACFBFD9CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleMethods", "tester\SimpleMethods.csproj", "{16070401-81A2-45BD-91AD-24522CC215A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birds", "Birds\Birds.csproj", "{E06CB3BF-F190-441C-876B-05E71EDE0ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomFunction", "RandomFunction\RandomFunction.csproj", "{BCFFE9A5-787B-4CD5-BE9C-0DD2A2751E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomFunction2", "RandomFunction2\RandomFunction2.csproj", "{E9F9E20F-A960-4645-9A55-4E6542CFAA76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{362CC8D2-E546-460B-AB7F-7CBACFBFD9CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{362CC8D2-E546-460B-AB7F-7CBACFBFD9CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{362CC8D2-E546-460B-AB7F-7CBACFBFD9CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16070401-81A2-45BD-91AD-24522CC215A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16070401-81A2-45BD-91AD-24522CC215A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16070401-81A2-45BD-91AD-24522CC215A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16070401-81A2-45BD-91AD-24522CC215A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E06CB3BF-F190-441C-876B-05E71EDE0ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06CB3BF-F190-441C-876B-05E71EDE0ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06CB3BF-F190-441C-876B-05E71EDE0ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06CB3BF-F190-441C-876B-05E71EDE0ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFFE9A5-787B-4CD5-BE9C-0DD2A2751E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFFE9A5-787B-4CD5-BE9C-0DD2A2751E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFFE9A5-787B-4CD5-BE9C-0DD2A2751E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFFE9A5-787B-4CD5-BE9C-0DD2A2751E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9F9E20F-A960-4645-9A55-4E6542CFAA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9F9E20F-A960-4645-9A55-4E6542CFAA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9F9E20F-A960-4645-9A55-4E6542CFAA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9F9E20F-A960-4645-9A55-4E6542CFAA76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
